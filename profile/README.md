@@ -17,7 +17,7 @@
 
 <img align = "center" alt= "Pacman" width="9000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-## Tailored AI Solutions
+## 🔧 Tailored AI Solutions
 <!--<img align = "right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif">-->
 
 ### Predictive Analytics
@@ -29,7 +29,7 @@
 
 <img align = "center" alt= "Pacman" width="9000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
-## Our Process
+## 🔑 Our Process
 
 <img align = "right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -46,7 +46,7 @@
 <img align = "center" alt= "Pacman" width="9000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
-## Contact Us
+## 📞 Contact Us
 
 - 📝 Learn more about us at [theproven.ai](https://theproven.ai)
 
