@@ -20,11 +20,11 @@
 ## 🔧 Tailored AI Solutions
 <!--<img align = "right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/212898774-0a96dc1d-c908-4ce8-9dd7-a71aab6e1c2b.gif">-->
 
-### Predictive Analytics
+### 📡 Predictive Analytics
   - Forecast trends, customer behavior, and business outcomes with precision using our advanced predictive models.
-### Intelligent Automation
+### 🧮 Intelligent Automation
   - Streamline operations and reduce costs with AI-poered automation that adapts to your business processes.
-### Data Intelligence
+### 📈 Data Intelligence
   - Transform raw data into actionable insights with our AI-driven analytics and visualization tools.
 
 <img align = "center" alt= "Pacman" width="9000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
@@ -34,13 +34,13 @@
 <img align = "right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 
-### Consultation
+### 🗣️ Consultation
   - Share your data challenges and business goals with us. Our experts will guide you through defining your use case and ensure your data meets the quality standards needed for AI success.
-### Data Preparation
+### 📊 Data Preparation
   - Our world-class data scientists will handle the ingestion, cleaning, and structuring of your data, applying rigorous quality control to prepare it for AI processing.
-### AI Development
+### 🤖 AI Development
   - Using your high-quality data, our engineers will design and develop a custom AI application tailored to your specific needs, ensuring it delivers accurate and actionable insights.
-### Deployment
+### 🎊 Deployment
   - Recevie your fully integrated AI application, ready to solve your business pain point, with the confidence that it's built on a foundation of high-quality data.
 
 <img align = "center" alt= "Pacman" width="9000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
